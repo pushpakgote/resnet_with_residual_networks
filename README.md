@@ -1,2 +1,2 @@
-# resnet_with_residual_networks
+# Building RESNET With Residual Networks
 Created RESNET model using Residual Networks

@@ -7,7 +7,7 @@ Residual network solves this problem.
 
 In ResNets, a "shortcut" or a "skip connection" allows the model to skip layers:  
 
-<img src="images/skip_connection_kiank.png" style="width:650px;height:200px;">
+![skip connection]("images/skip_connection_kiank.png")
 
 The image on the left shows the "main path" through the network. The image on the right adds a shortcut to the main path. By stacking these ResNet blocks on top of each other, you can form a very deep network. 
 
